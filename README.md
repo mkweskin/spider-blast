@@ -1,4 +1,4 @@
-#Read me
+#Scripts for spider blast hit preparation and parsing
 
 These are scripts used in the preparation and parsing of blastn queries of spider COI barcode sequences.
 
